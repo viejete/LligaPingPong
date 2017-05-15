@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LligaPingPong", "LligaPingPong\LligaPingPong.csproj", "{A2CCDD6D-7D1F-4DA1-8ACD-6862EDABCAFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LligaPingPongTests", "LligaPingPongTests\LligaPingPongTests.csproj", "{B1FF6218-E5CA-4F0F-9C1C-67F82842F786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CCDD6D-7D1F-4DA1-8ACD-6862EDABCAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CCDD6D-7D1F-4DA1-8ACD-6862EDABCAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CCDD6D-7D1F-4DA1-8ACD-6862EDABCAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CCDD6D-7D1F-4DA1-8ACD-6862EDABCAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1FF6218-E5CA-4F0F-9C1C-67F82842F786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FF6218-E5CA-4F0F-9C1C-67F82842F786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FF6218-E5CA-4F0F-9C1C-67F82842F786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FF6218-E5CA-4F0F-9C1C-67F82842F786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

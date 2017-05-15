@@ -1,2 +1,0 @@
-# LligaPingPong
-Lliga ping pong.
